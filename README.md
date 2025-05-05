@@ -1,11 +1,3 @@
-# Project Name: Operation_FindingTheLastPandyans
-
-The **Pandyan dynasty** was one of the most ancient and powerful Tamil kingdoms of South India, with roots tracing back to at least the **6th century BCE**, and flourishing prominently between **300 BCE and 1345 CE**. Centered around **Madurai**, the Pandyas were renowned for their extensive **maritime trade networks**, particularly in pearls, and served as ardent patrons of **Tamil literature and the Sangam assemblies**. Their naval prowess enabled them to project influence across the Indian Ocean, leading to **military and commercial expansion into Sri Lanka, the Maldives, and Southeast Asia**.
-
-According to the **Yuan Dynasty’s Chinese historical records**, specifically the _Yuan Shi_ (元史), **Temasek** (present-day Singapore) was attacked in the **14th century** by a **South Indian kingdom**, believed to be the **Pandyas**, as part of their campaign to assert control over regional maritime trade routes.
-
----
-
 ## 1. Purpose
 
 This project enables users to methodically generate prompts using a generative AI model, designed for use with other generative AI models. For a list of supported models, refer to **Applicable Models** below.
